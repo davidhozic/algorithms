@@ -34,7 +34,7 @@ impl<'a> KernelDensity<'a> {
             dist = (u - x) / bandwidth;
             total += gaussian_kernel(dist);
         }
-        total
+        total / self.u_data.len() as f64
     }
 
     /* Private methods */
