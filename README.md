@@ -6,7 +6,7 @@ Each implemented algorithm contains at least one example.
 Examples can be run with the command `cargo run --release --example <example>`.
 
 The library used for plotting is [gnuplot](http://www.gnuplot.info/) and needs to be installed
-on the sytem for the examples that draw plots.
+on the system for the examples that draw plots.
 
 
 ## Algorithms implemented
