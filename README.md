@@ -1,5 +1,5 @@
 # algorithms
-My implementation of various optimization algorithms, in Rust.
+My implementation of various algorithms, in Rust.
 
 ## Running examples
 Each implemented algorithm contains at least one example.
