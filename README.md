@@ -1,4 +1,4 @@
-# optimization-algorithms
+# algorithms
 My implementation of various optimization algorithms, in Rust.
 
 ## Running examples
