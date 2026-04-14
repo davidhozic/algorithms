@@ -1,0 +1,9 @@
+[package]
+name = "finite-difference"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[dev-dependencies]
+gnuplot = "0.0.46"
