@@ -1,0 +1,14 @@
+[package]
+name = "finite-difference"
+version = "0.1.0"
+edition = "2024"
+
+[features]
+plotting = ["dep:gnuplot"]
+
+[[example]]
+name = "time_series"
+required-features = ["plotting"]
+
+[dependencies]
+gnuplot = {version = "0.0.46", optional = true}
