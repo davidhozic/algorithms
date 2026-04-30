@@ -12,6 +12,10 @@ on the system for the examples that draw plots.
 ## Algorithms implemented
 Below is a list of all the algorithms currently implemented in this repository.
 
+### [Finite difference](./finite-difference/)
+Finite difference method is a way of estimating gradients of a function.
+It does that by calculating the slope of a tangent to the function in some specific point.
+
 ### [Kernel Density Estimation (KDE)](./kde)
 KDE is a non-parameteric method for estimating the density over a data distribution.
 This implementation uses a Gaussian kernel.
